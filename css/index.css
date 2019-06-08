@@ -212,7 +212,16 @@ footer nav a {
 
 /* ~~~~~~About Page~~~~~~ */
 
+h1, h2, h3, h4, h5, h6, p {
+    font-weight: bold;
+}
+
+
 .top-content-about{
-    
+    padding: 15px;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: flex-start;
+    border-bottom: 1px dashed black;
     
 }
