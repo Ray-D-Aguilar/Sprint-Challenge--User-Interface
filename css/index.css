@@ -226,16 +226,24 @@ h1, h2, h3, h4, h5, h6, p, a {
     
 }
 
+/* Main content */
+
+main h3, p, img {
+    margin: 15px;
+}
+
 .top-strategy {
     padding: 15px;
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     justify-content: space-around;
+    align-items: flex-start;
 
 }
 
 .top-text {
     padding: 15px;
+    border-bottom: 1px dashed;
 }
 
 .top-text button {
