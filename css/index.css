@@ -126,7 +126,6 @@ a {
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
-    background: black;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -171,41 +170,41 @@ footer nav a {
 /* Coloring of boxes */
 
 .box1 {
-
+    background-color: teal;
 }
 
 .box2 {
-
+    background-color: teal;
 }
 
 .box3 {
-
+    background-color: teal;
 }
 
 .box4 {
-
+    background-color: teal;
 }
 
 .box5 {
-
+    background-color: teal;
 }
 
 .box6 {
-
+    background-color: teal;
 }
 
 .box7 {
-
+    background-color: teal;
 }
 
 .box8 {
-
+    background-color: teal;
 }
 
 .box9 {
-
+    background-color: teal;
 }
 
 .box10 {
-
+    background-color: teal;
 }
