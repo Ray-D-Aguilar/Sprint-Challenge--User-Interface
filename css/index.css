@@ -232,6 +232,7 @@ main h3, p, img {
     margin: 15px;
 }
 
+
 .top-strategy {
     padding: 15px;
     display: flex;
@@ -243,7 +244,6 @@ main h3, p, img {
 
 .top-text {
     padding: 15px;
-    border-bottom: 1px dashed;
 }
 
 .top-text button {
@@ -259,14 +259,17 @@ button:hover {
     color: white;
     transition-duration: 0.3s;
 }
-
+/* Bottom portion of Main content */
 .bottom-strategy {
     padding: 15px;
     display: flex;
     justify-content: flex-start;
     justify-content: space-around;
     align-items: flex-start;
-    border-bottom: 1px dashed;
+}
+
+.bottom-text {
+    padding: 15px;
 }
 
 .bottom-text button{
@@ -275,4 +278,14 @@ button:hover {
     border: 2px black solid;
     border-radius: 10%;
     padding: 10px 25px;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+    transition-duration: 0.3s;
+}
+
+hr {
+    border-top: 1px dashed;
 }
