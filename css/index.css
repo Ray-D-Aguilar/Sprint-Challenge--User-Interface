@@ -92,13 +92,20 @@ a {
 }
 
 .flex-nav {
-    border: 1px black solid;
+    /* border: 1px black solid; */
     padding: 15px;
     display: flex;
     justify-content: flex-start;
     justify-content: space-between;
     align-items: center;
     align-items: flex-end;
+}
+
+.Jumbo-image {
+    width: 770px;
+    /* border: 1px black solid; */
+    padding: 5px;
+    margin: 15px;
 }
 
 /*Main Content section */
